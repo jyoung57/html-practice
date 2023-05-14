@@ -12,4 +12,8 @@ if (username==="Jon") {
 
 }
 
+if (username=="Elias") {
+    alert("You are doing great teaching us")
+}
+
 
