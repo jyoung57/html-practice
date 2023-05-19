@@ -1,15 +1,14 @@
 body {
        background: url(https://i.etsystatic.com/21337046/r/il/ddbdc6/2208337993/il_794xN.2208337993_jfc4.jpg);
-     
 }
 
 h1 {
     color:rgb(33, 9, 252);
     text-align: justify;
-    background-color: rgb(3, 3, 15);
+    background: rgb(3, 3, 15);
     margin: 25px;
-    height: 40px;
-    font-size: xx-large;
+    height: 120px;
+    font-size: 100px;
 }
 
 h2 {
@@ -32,4 +31,8 @@ a {
     font-weight: bolder;
     font-size: xx-large;
     color: antiquewhite;
+}
+
+div {
+    background: purple;
 }
