@@ -11,11 +11,6 @@ h1 {
     font-size: 100px;
 }
 
-h2 {
-    color-scheme: dark;
-    animation: backwards;
-    
-}
 
 b {
     color: whitesmoke;
@@ -23,8 +18,8 @@ b {
 }
 
 footer {
-        font: bold
-        color: rgb(42, 95%, 35%)
+    font: bold
+    color: rgb(42, 95%, 35%)
 }
 
 a {
@@ -34,5 +29,5 @@ a {
 }
 
 div {
-    background: purple;
+    background: black;
 }
